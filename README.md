@@ -82,7 +82,7 @@ information_retrieval_cheatsheet/
 * Keyword / fuzzy search
 * Pattern / regex
 
-### **3. Spatial & Temporal (Expanded)**
+### **3. Spatial & Temporal**
 
 * Temporal search (valid-time & transaction-time)
 * **Bi-temporal** search
