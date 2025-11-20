@@ -4,7 +4,18 @@
 
 This repository contains a **comprehensive taxonomy**, **cheat sheet**, and **visual diagrams** that summarize the many dimensions of modern information retrieval — from SQL to semantic search, from spatiotemporal indexing to AI-driven retrieval, and even a playful nod to the future: **Quantum Query?** 🚀
 
-It is based on a refined, multi-turn exploration of data-access modalities, culminating in a professionally typeset **one-page A4 PDF**, technical visualizations, and whimsical / neon-sci-fi diagram variants.
+It is based on a refined, multi-turn exploration of data-access modalities, culminating in a **one-page A4 PDF**, technical visualizations, and some diagrams.
+
+---
+
+## 🌟 Purpose of This Project
+
+This project exists to:
+
+* Provide a **complete conceptual map** of the modern information-retrieval landscape
+* Serve as a **quick-start reference** for engineers, architects, analysts, ML practitioners
+* Highlight emerging or humorous future dimensions (e.g., *Quantum Query?*)
+* Offer visual metaphors that make complex retrieval concepts **memorable**
 
 ---
 
@@ -12,7 +23,7 @@ It is based on a refined, multi-turn exploration of data-access modalities, culm
 
 The following resources are included in this repository:
 
-### 🧭 1. Data Retrieval Taxonomy (PDF)
+### 🧭 Data Retrieval Taxonomy (PDF)
 
 A polished **one-page A4** reference sheet containing:
 
@@ -31,41 +42,9 @@ A polished **one-page A4** reference sheet containing:
 
 ---
 
-### 🌌 2. The “Data Cosmos” Diagrams
+### 🌌 Diagrams
 
-Several stylistic visualizations are included:
-
-#### **A. Lighthearted version**
-
-Hand-drawn style, warm colors, planets representing query dimensions, friendly and approachable.
-
-#### **B. Multiverse / Data-Cosmos version**
-
-Whimsical + technical:
-
-* 3D cubes
-* Planetary dimensions
-* Cosmological orbits
-* Hints at the next frontier (“Quantum Query?”)
-
-#### **C. Neon Sci-Fi 1980s Vector Graphic**
-
-Retro-futuristic synthwave neon grid:
-
-* Wireframe spaceship
-* Hubble-deep-field background
-* Neon-glowing nodes for SQL/SPARQL/AI/Vector/etc.
-* Technical blueprint energy lines
-* Clean single instance of each retrieval dimension
-
-These visual artifacts help convey that data retrieval spans many conceptual universes.
-
-📁 **Images Included:**
-
-* `data_retrieval_taxonomy_diagram.png`
-* `multiverse_data_cosmos.png`
-* `neon_sci_fi_data_dimensions.png`
-  *(Ensure filenames match the actual repo uploads.)*
+Several stylistic visualizations are included in folder `/images`.
 
 ---
 
@@ -88,8 +67,6 @@ information_retrieval_cheatsheet/
 ---
 
 ## 🧩 Multi-Dimensional Data Retrieval Taxonomy
-
-(From the PDF and this session)
 
 ### **1. Query Languages**
 
@@ -161,21 +138,9 @@ information_retrieval_cheatsheet/
 
 ---
 
-## 🌟 Purpose of This Project
-
-This project exists to:
-
-* Provide a **complete conceptual map** of the modern information-retrieval landscape
-* Serve as a **quick-start reference** for engineers, architects, analysts, ML practitioners
-* Highlight emerging or humorous future dimensions (e.g., *Quantum Query?*)
-* Offer visual metaphors that make complex retrieval concepts **memorable**
-
----
-
 ## 📥 Contributions Welcome
 
 Have a suggestion for new dimensions?
-Want to propose an additional diagram style (retro terminal, blueprint, anime, cyberpunk)?
 Contributions are very welcome!
 
 Feel free to open:
