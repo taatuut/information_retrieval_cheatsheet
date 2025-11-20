@@ -1,8 +1,3 @@
-# information_retrieval_cheatsheet
-This repository contains a comprehensive taxonomy, cheat sheet, and visual diagrams that summarize the many dimensions of modern information retrieval
-
----
-
 # 📘 Information Retrieval Cheat Sheet
 
 *A Multiverse Guide to Multi-Dimensional Data Access*
