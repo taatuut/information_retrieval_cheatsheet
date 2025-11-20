@@ -1,15 +1,6 @@
 # information_retrieval_cheatsheet
 This repository contains a comprehensive taxonomy, cheat sheet, and visual diagrams that summarize the many dimensions of modern information retrieval
 
-It incorporates:
-
-✅ The full taxonomy from the attached PDF
-✅ Context from our entire conversation
-✅ Download links placeholders for diagrams
-✅ Repo structure guidance
-✅ Attribution + contribution guidelines
-✅ A friendly, approachable tone suitable for open-source
-
 ---
 
 # 📘 Information Retrieval Cheat Sheet
